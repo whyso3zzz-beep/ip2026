@@ -1,5 +1,5 @@
 USTH Image Processing 2026
 ===================================
 
-* Your name
-* Your student ID
+* Your name: Nguyen Phuc Duc
+* Your student ID: 23ba14055
